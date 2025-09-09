@@ -15,22 +15,21 @@ This program calculates and compares different time scales based on:
 - Metaphorical interpretations of sacred texts
 - Comparisons with modern scientific time scales
 
-Main Time Scales
+### Main Time Scales
 
 - Cosmic Time: 1 day = 1,000 human years (Quran 22:47)
 - Divine Time: 1 day = 50,000 human years (Quran 70:4)
-= Human Time: Standard Time Scale
+- Human Time: Standard Time Scale
 
-Available Analysis
+### Available Analysis
 
-- ✅ Calculation of elapsed time since historical milestones
-- ✅ Comparison between multiple religious chronologies
-- ✅ Future projections on different time scales
-- ✅ Analysis of the relative speed of time
-- ✅ Contextualization with the scientific age of the universe
+- Calculation of elapsed time since historical milestones
+- Comparison between multiple religious chronologies
+- Future projections on different time scales
+- Analysis of the relative speed of time
+- Contextualization with the scientific age of the universe
 
-🛠️ Compilation and Execution
-Prerequisites
+### Compilation and execution prerequisites
 
 - C compiler (GCC, Clang, or similar)
 - Standard Math Library
