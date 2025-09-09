@@ -5,11 +5,7 @@ An advanced computational implementation for analyzing time scales based on inte
 ```sh
 git clone "https://github.com/malakut-dev/universal-time.git"
 cd universal-time
-mkdir build && cd build
-cmake .. && make
-./universal_time
 
-# or
 chmod +x build.sh
 ./build.sh
 ./universal_time
