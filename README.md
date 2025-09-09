@@ -7,6 +7,7 @@ git clone "https://github.com/malakut-dev/universal-time.git"
 cd universal-time
 chmod +x build.sh
 ./build.sh
+./universal_time
 ```
 
 This program calculates and compares different time scales based on:
