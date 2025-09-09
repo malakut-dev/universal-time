@@ -1,7 +1,5 @@
-# universal-time
+# Universal time
 An advanced computational implementation for analyzing time scales based on interpretations of texts and historical chronologies.
-
-
 
 ### Install
 ```sh
@@ -10,7 +8,6 @@ cd universal-time
 chmod +x build.sh
 ./build.sh
 ```
-
 
 This program calculates and compares different time scales based on:
 
